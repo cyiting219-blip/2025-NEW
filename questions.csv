@@ -1,0 +1,13 @@
+""設定畫布背景顏色的函數是?","background()","fill()","color()","clear()","A"
+"設定圖形邊框顏色的函數是?","fill()","border()","stroke()","lineColor()","C"
+"繪製矩形的函數是?","square()","rect()","box()","drawRect()","B"
+"繪製圓形或橢圓形的函數是?","circle()","oval()","arc()","ellipse()","D"
+"取消圖形填充顏色的函數是?","noFill()","clearFill()","fill(0, 0)","empty()","A"
+"取消圖形邊框的函數是?","noBorder()","clearStroke()","noStroke()","stroke(0, 0)","C"
+"儲存滑鼠目前 X 座標的內建變數是?","x","mouseX","mouse.x","getMouseX()","B"
+"儲存滑鼠目前 Y 座標的內建變數是?","mouseY","y","mouse.y","getMouseY()","A"
+"儲存畫布寬度的內建變數是?","canvas.width","w","width","getWidth()","C"
+"繪製一條直線的函數是?","line()","linea()","drawLine()","stroke()","A"
+
+
+
